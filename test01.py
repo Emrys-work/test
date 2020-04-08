@@ -19,8 +19,8 @@ print(str)
 print(str[0:-1])
 print(str[0])
 print(str[2:])
-print(str * 2)
-print(str + " boom")
+print(str * 2)   # 字符串的的重复
+print(str + " boom")    # 字符串的连接
 
 print('hello\nrunoob')      
 # 使用反斜杠(\)+n转义特殊字符

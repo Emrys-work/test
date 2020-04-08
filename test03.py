@@ -8,6 +8,7 @@ print(type(c))
 print(type(d))
 print(isinstance(a,int))
 # 数据类型的演示
+# 数组
 list = [ 'abcd', 786 , 2.23, 'runoob', 70.2 ]
 tinylist = [123, 'runoob']
 print(list)
